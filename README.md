@@ -7,8 +7,9 @@
 ## Demo
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/your-screenshot-id" alt="TerminalBuddy Chat" width="80%" />
+  <img src="https://github.com/user-attachments/assets/6a08ef00-43f3-40a5-8a33-2649c5e518f6" alt="TerminalBuddy Chat" />
 </p>
+
 
 ---
 
